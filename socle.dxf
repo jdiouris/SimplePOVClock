@@ -1,0 +1,86 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  5
+90
+  8
+Layer_0
+  62
+1
+  66
+1
+  10
+0
+  20
+0
+  30
+0
+  0
+VERTEX
+  5
+90
+  8
+Layer_0
+  10
+107
+  20
+7
+  0
+VERTEX
+  5
+91
+  8
+Layer_0
+  10
+7.0000038
+  20
+7
+  0
+VERTEX
+  5
+92
+  8
+Layer_0
+  10
+7.0000038
+  20
+137
+  0
+VERTEX
+  5
+93
+  8
+Layer_0
+  10
+107
+  20
+137
+  0
+VERTEX
+  5
+94
+  8
+Layer_0
+  10
+107
+  20
+7
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF

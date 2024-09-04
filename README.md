@@ -1,4 +1,4 @@
-# Horloge à persitance rétinienne
+# Horloge à persistence rétinienne
 ![alt text](simplepovclocksmall.png)
 
 ## Principe

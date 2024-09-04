@@ -22,7 +22,9 @@ Le boitier et le socle sont en contreplaqué 5mm découpé au laser. Les autres 
 ## Electronique
 
 Les composants suivants :
+
 | Composant | Quantité |
+| --------- | -------- |
 | Arduino uno | 1 |
 | CNY70 | 1 |
  

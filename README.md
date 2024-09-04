@@ -8,6 +8,7 @@ Un disque muni d'une fente tourne sur son axe. Des leds s'allumeent périodiquem
 
 |Pièce | Fichier source | Fichier de fabrication |
 | ---- | -------------- | ---------------------- |
-| Boitier | box.lbrn2 | |
+| Boitier | box.lbrn2  | box.dxf                 |
+| Socle | socle.lbrn2  | socle.dxf |
  | Coupelle | coupelle.scad | coupelle.stl |
  |

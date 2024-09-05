@@ -38,5 +38,5 @@ Les composants suivants :
  Le schéma est détaillé dans le fichier schema.pdf. La pluspart des composants sont montés sur une carte de prototypage shield Arduino. Le capteur optique CNY70 est monté sur le support imprimé en 3d avec les deux résistances associées.
 
  ## Programme
- 
+ Le programme arduino est povc2.ino.
 

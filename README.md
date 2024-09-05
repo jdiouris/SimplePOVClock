@@ -2,7 +2,7 @@
 ![alt text](simplepovclocksmall.png)
 
 ## Principe
-Un disque muni d'une fente tourne sur son axe. Des leds s'allumeent périodiquement pour visualiser les aiguilles des heures et des minutes. Un boutaon poussoir permet de démarrer la rotation ou l'arrêt du disque. Deux boutons poussoirs à l'arrière permettent de régler l'heure et les minutes. L'heure est sauvegarder dans un circuit RTC.
+Un disque muni d'une fente tourne sur son axe. Des leds s'allument périodiquement pour visualiser les aiguilles des heures et des minutes. Un boutaon poussoir permet de démarrer la rotation ou l'arrêt du disque. Deux boutons poussoirs à l'arrière permettent de régler l'heure et les minutes. L'heure est sauvegardée dans un circuit RTC.
 
 ##  Mécanique
 Le boitier et le socle sont en contreplaqué 5mm découpé au laser. Les autres pièces sont réalisées en impression 3D.

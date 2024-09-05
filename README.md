@@ -27,5 +27,7 @@ Les composants suivants :
 | --------- | -------- |
 | Arduino uno | 1 |
 | CNY70 | 1 |
- 
+| BD139 | 2 |
+ | MOSFET | 1 |
+ |Module horloge DS1302 | 1 |
 

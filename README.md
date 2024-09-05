@@ -34,6 +34,7 @@ Les composants suivants :
  | Diode 1N4148 | 1 |
  | Condensateur 10uF | 1|
  | Résistances | voir schéma |
+ | Boutons poussoirs diamêtre 12.5 mm | 3 |
 
  Le schéma est détaillé dans le fichier schema.pdf. La pluspart des composants sont montés sur une carte de prototypage shield Arduino. Le capteur optique CNY70 est monté sur le support imprimé en 3d avec les deux résistances associées.
 
